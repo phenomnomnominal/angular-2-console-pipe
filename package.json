@@ -1,0 +1,23 @@
+{
+  "name": "angular-2-console-pipe",
+  "version": "0.0.2",
+  "description": "Angular 2 pipe for logging to the console from a template",
+  "main": "console.pipe.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phenomnomnominal/angular-2-console-pipe.git"
+  },
+  "keywords": [
+    "angular",
+    "ng2",
+    "console",
+    "pipe",
+    "debug"
+  ],
+  "author": "Craig Spence <craigspence0@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phenomnomnominal/angular-2-console-pipe/issues"
+  },
+  "homepage": "https://github.com/phenomnomnominal/angular-2-console-pipe#readme"
+}
