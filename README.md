@@ -5,7 +5,7 @@ Angular 2 pipe for logging to the console from a template!
 
 ```javascript
 import { PLATFORM_PIPES } from '@angular/core';
-import { ConsolePipe } from ‘angular-2-console-pipe’;
+import { ConsolePipe } from 'angular-2-console-pipe';
 
 bootstrap(App, [{
     provide: PLATFORM_PIPES,
